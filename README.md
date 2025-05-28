@@ -1,2 +1,2 @@
 # Scientific-Graphing-Calculator
-Simple scientific calculator project
+Simple scientific calculator that has a built in graphing calculator
