@@ -1,0 +1,58 @@
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.csproj.AssemblyReference.cache
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Form1.resources
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Properties.Resources.resources
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.csproj.GenerateResource.cache
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.csproj.CoreCompileInputs.cache
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\Calculator project v2.exe.config
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\Calculator project v2.exe
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\Calculator project v2.pdb
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.exe
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.pdb
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\ZedGraph.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\ZedGraph.xml
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Form2.resources
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculat.0043AA3B.Up2Date
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.GraphingCalculatorForm.resources
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Form3.resources
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\Calculator project v2.exe.config
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\Calculator project v2.exe
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\Calculator project v2.pdb
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\ZedGraph.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\ZedGraph.xml
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.csproj.AssemblyReference.cache
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Form1.resources
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Form2.resources
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Form3.resources
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.GraphingCalculatorForm.resources
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator_project_v2.Properties.Resources.resources
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.csproj.GenerateResource.cache
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.csproj.CoreCompileInputs.cache
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculat.0043AA3B.Up2Date
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.exe
+C:\Users\mohab\Desktop\My projects\Coding\Uni project\oop\Calculator project v2\Calculator project v2\obj\Debug\Calculator project v2.pdb
